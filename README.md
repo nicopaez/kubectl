@@ -3,6 +3,6 @@
 Usage
 
 ````
-docker build -t nicopaez/kubectl:1.22.0 .
-docker run --it nicopaez/kubectl:1.22.0 /bin/sh
+docker build -t nicopaez/kubectl:1.26.0 .
+docker run --it nicopaez/kubectl:1.26.0 /bin/sh
 ````
